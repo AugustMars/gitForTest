@@ -16,7 +16,7 @@ public class servletHelloWorld extends HttpServlet{
     	    PrintWriter out = resp.getWriter();
     	   
     	    out.println("<html><head><title>Hello Horld Sample</title></head>");
-    	    out.println("<body><h1>Hello World</h1></body></html>");
+    	    //out.println("<body><h1>Hello World</h1></body></html>");
     	    out.flush();
     	    //你好吗？？
     }
