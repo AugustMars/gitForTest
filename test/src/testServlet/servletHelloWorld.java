@@ -17,7 +17,7 @@ public class servletHelloWorld extends HttpServlet{
     	   
     	    out.println("<html><head><title>Hello Horld Sample</title></head>");
     	    out.println("<body><h1>Hello World</h1></body></html>");
-    	    out.flush();
-    	    //你好吗？？
+    	    //out.flush();
+    	    //你好吗
     }
 }
